@@ -1,6 +1,6 @@
 <?php
 
-namespace ikki646i\HtmlElements;
+namespace Elements\HtmlElements;
 
 class H1 extends Element
 {

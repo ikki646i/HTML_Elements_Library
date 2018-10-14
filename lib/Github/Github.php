@@ -1,5 +1,5 @@
 <?php
-namespace ikki646i\Github;
+namespace Elements\Github;
 
 class Github
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace ikki646i\MaterialDesign;
+namespace Elements\MaterialDesign;
 
-use \ikki646i\HtmlElements\Div;
-use \ikki646i\HtmlElements\Element;
-use \ikki646i\HtmlElements\H4;
-use \ikki646i\HtmlElements\Li;
-use \ikki646i\HtmlElements\Ul;
+use \Elements\HtmlElements\Div;
+use \Elements\HtmlElements\Element;
+use \Elements\HtmlElements\H4;
+use \Elements\HtmlElements\Li;
+use \Elements\HtmlElements\Ul;
 
 class Collection
 {

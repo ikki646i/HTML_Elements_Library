@@ -1,8 +1,8 @@
 <?php
-namespace ikki646i\App;
+namespace Elements\App;
 
-use \ikki646i\Github\Github;
-use \ikki646i\MaterialDesign\Collection;
+use \Elements\Github\Github;
+use \Elements\MaterialDesign\Collection;
 
 class App
 {
