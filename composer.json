@@ -2,7 +2,7 @@
     "name": "ikki646i/html_elements",
     "description": "supports HTML elements creation and can return a list of github repositories",
     "require": {
-        "php": "^5.U3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
     }
 }
