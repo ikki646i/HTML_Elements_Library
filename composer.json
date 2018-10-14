@@ -2,7 +2,16 @@
     "name": "ikki646i/html_elements",
     "description": "supports HTML elements creation and can return a list of github repositories",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "vlucas/phpdotenv": "^2.5"
-    }
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elements\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robin Spruytte"
+        }
+    ]
 }
